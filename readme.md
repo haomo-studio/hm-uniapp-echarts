@@ -14,7 +14,7 @@
 
 ## 技术支持
 
-* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1396)
+* [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1400)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-echarts)
 
