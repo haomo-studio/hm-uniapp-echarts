@@ -1,6 +1,6 @@
 {
   "name": "hm-uniapp-echarts",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "毫末uni-app Echarts组件。支持H5；组件可自适应各种屏幕大小的手机。",
   "main": "index.js",
   "scripts": {
