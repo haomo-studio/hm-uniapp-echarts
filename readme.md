@@ -14,6 +14,8 @@
 
 ## 技术支持
 
+我们公司提供超低价的切图服务哈。移动端平均50元每个页面，PC Web端平均80元每个页面。目前支持出vue、react、uniapp、taro、flutter、小程序代码代码，代码支持自适应。其中uniapp、taro一份代码支持多端。app原生会在五月份开始支持。示例demo: [http://edu.uniapp.haomo-tech.com](http://edu.uniapp.haomo-tech.com)。部分样例代码：[http://downloads.haomo-tech.com/uniapp-demo.zip](http://downloads.haomo-tech.com/uniapp-demo.zip)
+
 * [uni-app插件市场](https://ext.dcloud.net.cn/plugin?id=1400)
 
 * [npm包](https://www.npmjs.com/package/hm-uniapp-echarts)
